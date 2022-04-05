@@ -3,6 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
+    <PackageId>QATest.Setup</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Nejra Celik</Authors>
+    <PackageDescription>Initizalization of test</PackageDescription>
+    <RepositoryUrl>https://github.com/nejraacelik/QATest.Setup</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
